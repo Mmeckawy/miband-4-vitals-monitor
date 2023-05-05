@@ -1,4 +1,4 @@
-[Live demo](https://miband-5-heart-rate-monitor.netlify.app/)
+[Live demo](https://timely-kheer-a38f4d.netlify.app/)
 
 # Mi Band 4/5 Heart Rate Monitor
 
@@ -14,7 +14,7 @@ Display your Mi Band's heart rate in the browser.
 
 ## How to use
 
-1. Go to https://miband-5-heart-rate-monitor.netlify.app/
+1. Go to https://timely-kheer-a38f4d.netlify.app/
 2. Insert your Mi Band's auth key
 3. Wear your Mi Band
 3. Click connect
