@@ -4,7 +4,7 @@ html {
   padding: 0;
   font-family: sans-serif;
   height: 100%;
-  background-color: #222;
+  background-color: #fff;
 }
 
 div.main {
@@ -19,7 +19,8 @@ div.main {
 button {
   width: 100%;
   padding: 10px 20px;
-  background: white;
+  background: #3C07B3;
+  color: #fff;
   border: 1px solid black;
 }
 
@@ -28,7 +29,7 @@ button:hover {
 }
 
 #container {
-  color: #eee;
+  color: #3C07B3;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,8 +61,8 @@ button:hover {
 .init input {
   width: 100%;
   padding: 8px 12px;
-  background-color: #111;
-  border: 1px solid #eee;
+  background-color: #eee;
+  border: 1px solid #111;
   border-radius: 4px;
   color: white;
   font-size: 18px;
